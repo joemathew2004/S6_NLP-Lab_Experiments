@@ -1,0 +1,16 @@
+text,sentiment
+"I love this product, it's amazing!",Positive
+"The service was terrible, very slow.",Negative
+"Had a great experience, will come again.",Positive
+"I am extremely disappointed.",Negative
+"The food was okay, nothing special.",Neutral
+"The movie was fantastic! Highly recommend.",Positive
+"Worst experience ever, not recommended.",Negative
+"The delivery was quick and efficient.",Positive
+"It was just an average product.",Neutral
+"Amazing customer service! Loved it.",Positive
+"I will never buy from this place again.",Negative
+"The product is decent for its price.",Neutral
+"The app is so user-friendly and smooth.",Positive
+"I expected better quality, disappointed.",Negative
+"Not bad, but could be improved.",Neutral

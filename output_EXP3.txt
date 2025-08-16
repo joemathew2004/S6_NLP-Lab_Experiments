@@ -1,0 +1,19 @@
+Number of words (tokens): 16
+Number of distinct words (types): 13
+
+Word Frequencies and Percentages:
+and: Frequency = 1, Percentage = 6.25%
+are: Frequency = 1, Percentage = 6.25%
+but: Frequency = 1, Percentage = 6.25%
+despite: Frequency = 1, Percentage = 6.25%
+differences: Frequency = 1, Percentage = 6.25%
+dog: Frequency = 2, Percentage = 12.50%
+fox: Frequency = 1, Percentage = 6.25%
+friends: Frequency = 1, Percentage = 6.25%
+is: Frequency = 1, Percentage = 6.25%
+lazy: Frequency = 1, Percentage = 6.25%
+loyal: Frequency = 1, Percentage = 6.25%
+the: Frequency = 3, Percentage = 18.75%
+their: Frequency = 1, Percentage = 6.25%
+
+Type-Token Ratio (TTR): 81.25%

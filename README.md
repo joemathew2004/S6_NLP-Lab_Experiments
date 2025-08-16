@@ -2,7 +2,7 @@
 
 This repository contains Natural Language Processing (NLP) programs developed during the 6th semester AI & ML lab hours. The programs cover fundamental to advanced NLP concepts and techniques.
 
-## 📁 Repository Structure
+## Repository Structure
 
 ### Core NLP Programs
 - **2_preprocessing.py** - Text preprocessing pipeline (tokenization, stemming, lemmatization, stop word removal)
